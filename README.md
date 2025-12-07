@@ -9,6 +9,9 @@ Dự án này là một ứng dụng quản lý bán hàng nhỏ lẻ được x
   - Thêm sản phẩm qua **quét mã QR**
   - Tạo và hiển thị QR code cho từng sản phẩm
 
+- **Quản lý khách hàng**
+  - Thêm, sửa, xóa khách hàng
+    
 - 🛍️ **Tạo đơn hàng**
   - Thêm sản phẩm vào giỏ hàng
   - In hóa đơn (hỗ trợ xuất đơn hàng có QR code)
